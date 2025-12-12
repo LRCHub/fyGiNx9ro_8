@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "In My Arms",
+  "base_artist": "Purple Disco Machine",
+  "createdAt": "2025-12-12T13:26:26.322023Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Back In My Arms Again - Edit",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/01_Back_In_My_Arms_Again_-_Edit_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'll Hold You In My Heart (Till I Can Hold You In My Arms)",
+      "artist": "Eddy Arnold",
+      "has_synced": true,
+      "path": "select/02_I'll_Hold_You_In_My_Heart_(Till_I_Can_Hold_You_In_My_Arms)_Eddy_Arnold.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "In My Arms",
+      "artist": "Mylo",
+      "has_synced": true,
+      "path": "select/03_In_My_Arms_Mylo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "In My Arms",
+      "artist": "Mylo",
+      "has_synced": false,
+      "path": "select/04_In_My_Arms_Mylo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "In My Arms",
+      "artist": "Ancient Bards",
+      "has_synced": true,
+      "path": "select/05_In_My_Arms_Ancient_Bards.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Back in My Arms",
+      "artist": "Robert Palmer",
+      "has_synced": false,
+      "path": "select/06_Back_in_My_Arms_Robert_Palmer.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Safe In My Arms",
+      "artist": "Narada Michael Walden",
+      "has_synced": false,
+      "path": "select/07_Safe_In_My_Arms_Narada_Michael_Walden.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Back In My Arms",
+      "artist": "The Pointer Sisters",
+      "has_synced": false,
+      "path": "select/08_Back_In_My_Arms_The_Pointer_Sisters.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Back In My Arms",
+      "artist": "The Pointer Sisters",
+      "has_synced": true,
+      "path": "select/09_Back_In_My_Arms_The_Pointer_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dim Stars (The Boy In My Arms)",
+      "artist": "The American Analog Set",
+      "has_synced": true,
+      "path": "select/10_Dim_Stars_(The_Boy_In_My_Arms)_The_American_Analog_Set.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "In My Arms",
+      "artist": "Lasgo",
+      "has_synced": true,
+      "path": "select/11_In_My_Arms_Lasgo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In My Arms",
+      "artist": "Chapterhouse",
+      "has_synced": false,
+      "path": "select/12_In_My_Arms_Chapterhouse.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "My Guitar Lies Bleeding In My Arms",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/13_My_Guitar_Lies_Bleeding_In_My_Arms_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "In My Arms",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/14_In_My_Arms_Erasure.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Than the Serpents in My Arms",
+      "artist": "Moonspell",
+      "has_synced": false,
+      "path": "select/15_Than_the_Serpents_in_My_Arms_Moonspell.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Right Here In My Arms",
+      "artist": "HIM",
+      "has_synced": true,
+      "path": "select/16_Right_Here_In_My_Arms_HIM.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Right Back Here in My Arms",
+      "artist": "Prince",
+      "has_synced": false,
+      "path": "select/17_Right_Back_Here_in_My_Arms_Prince.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Until U're in My Arms Again",
+      "artist": "Prince & The New Power Generation",
+      "has_synced": true,
+      "path": "select/18_Until_U're_in_My_Arms_Again_Prince_&_The_New_Power_Generation.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "In My Arms",
+      "artist": "Purple Disco Machine",
+      "has_synced": false,
+      "path": "select/pl_01_In_My_Arms_Purple_Disco_Machine.txt"
+    }
+  ]
+}
